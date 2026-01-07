@@ -1,10 +1,11 @@
 "use strict";
-// Copyright ©2025 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:13684469756482984100 LICENSE.md
+// Intelligence Deva
+// Copyright ©2000-2026 Quinn A Michaels; All rights reserved.  
+// Legal Signature Required For Lawful Use.  
+// Distributed under VLA:30015943562987360392 LICENSE.md
+// Tuesday, January 6, 2026 - 3:37:11 PM
 
 
-// Guard Deva
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
 const {agent,vars} = pkg.data;
@@ -29,7 +30,7 @@ const info = {
   copyright: pkg.copyright,
 };
 
-const INTELLIGENCE = new Deva({
+const IntelligenceDeva = new Deva({
   info,
   agent,
   vars,
@@ -64,4 +65,4 @@ const INTELLIGENCE = new Deva({
     return reject(err);
   },
 });
-export default INTELLIGENCE
+export default IntelligenceDeva

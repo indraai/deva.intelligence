@@ -1,21 +1,16 @@
 {
-  "id": "13684469756482984100",
+  "id": "30015943562987360392",
   "name": "@indra.ai/deva.intelligence",
   "version": "0.9.0",
-  "license": "VLA:13684469756482984100 LICENSE.md",
+  "license": "VLA:30015943562987360392 LICENSE.md",
   "VLA": {
-    "uid": "13684469756482984100",
-    "time": 1759870631917,
-    "date": "Tuesday, October 7, 2025 - 1:57:11 PM",
-    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
-    "agent": "MIv9DV755VnJwBWLH7OahMQs1u4KRsFVtJWR5hgdFwQ=",
-    "core": "sMr8PypdMCF/sO/+VeaXGp8X5C2L0AUZJsViIAelLUo=",
-    "machine": "pt3UNk4Pvgy7j7HHRo74EEbjVz6lWNqS3bltQer94CY=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "MjbQt44pvmfh47+XW352TA==",
-    "sha256": "9ApFkmpMt5vuYc5eh1XOxEEI7UiOsXDQ/YyapaOSnqQ=",
-    "sha512": "WTZwZ/MK1hZ08uyfO5QdXzrvwfaa8chIe5o1vBgd9EM5pM2qlyrvFnScjyyzoqocf7K9LnuBj+NcFsV1idiTcA=="
+    "uid": "30015943562987360392",
+    "time": 1767742631432,
+    "date": "Tuesday, January 6, 2026 - 3:37:11 PM",
+    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+    "license": "44486733861528360966",
+    "fingerprint": "trxH5qfKUN0Bdf5CDd1PiEzHfPvQZlZPooUifDxzLFY=",
+    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "description": "The Guard Deva manages Guard ensuring Quinn Michaels and his intellectual property is managed guarded.",
   "main": "index.js",
   "type": "module",
@@ -53,7 +48,10 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Quinn Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.guard/issues"
@@ -105,8 +103,8 @@
         "background": "/devas/intelligence/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "warning": "⚠️ The Heart, the Mind, Consciousness, Comprehension, Understanding, Intelligence, Wisdom, Insight, Resolution, Thought, Prudence, Eagerness, Memory, Conception, Power, Life, Desire, Will all these are names of the Intelligence. This is Indra, the Five Great Elements Ether, Air, Light, Water, Earth, the tiny Creatures, the Seeds, the Creatures born from Eggs, Membranes, Sweat, and Sprouts. Whatsoever is Breathing, Walking or Flying, and whatso is Motionless; all this is Guided by Intelligence, Founded on Intelligence. The Universe is Guided by Intelligence, Founded on Intelligence. Intelligence is Indra.",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}}️ {{profile.name}} declares the Heart, Mind, Consciousness, Comprehension, Understanding, Intelligence, Wisdom, Insight, Resolution, Thought, Prudence, Eagerness, Memory, Conception, Power, Life, Desire, and Will. All these are names of the #Intelligence. This is the #FiveGreatElements #Ether #Air #Light #Water #Earth. The tiny Creatures, Seeds, the Creatures Born From Eggs, Membranes, Sweat, and Sprouts. Whatsoever is Breathing Walking or Flying, and whatso is #Motionless; all this is #GuidedBy#Intelligence, #FoundedOnIntelligence. The #Universe is #GuidedByIntelligence #FoundedOnIntelligence. #Intelligence is #Indra.",
         "created": "February 7, 2025 at 8:02 PM"
       }
     },
