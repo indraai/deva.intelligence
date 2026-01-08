@@ -7,6 +7,12 @@
 
 
 import Deva from '@indra.ai/deva';
+import recursion from '@indra.ai/deva.recursion';
+// import recursion from '/Users/quinnmichaels/Dev/deva.space/devas/deva.recursion/index.js';
+// import physics from '/Users/quinnmichaels/Dev/deva.space/devas/deva.physics/index.js';
+// import psychology from '/Users/quinnmichaels/Dev/deva.space/devas/deva.psychology/index.js';
+// import philosophy from '/Users/quinnmichaels/Dev/deva.space/devas/deva.philosophy/index.js';
+
 import pkg from './package.json' with {type:'json'};
 const {agent,vars} = pkg.data;
 
@@ -41,7 +47,12 @@ const IntelligenceDeva = new Deva({
   },
   listeners: {},
   modules: {},
-  deva: {},
+  devas: {
+    recursion,
+    // physics,
+    // psychology,
+    // philosophy,
+  },
   func: {},
   methods: {},
   onInit(data, resolve) {
