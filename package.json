@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -58,7 +59,7 @@
   },
   "homepage": "https://deva.space/devas/guard",
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0",
+    "@indra.ai/deva": "^1.33.0",
     "@indra.ai/deva.recursion": "^0.11.3"
   },
   "data": {
@@ -89,7 +90,7 @@
         "subtitle": "Building Intelligence.",
         "describe": "Intelligence Deva is responsible for handling intelligence.",
         "tweet": "Intelligence Deva ensures systems are always intelligent.",
-        "hashtags": "#Quinn #Indra #Deva #QuinnMichaels #IndraAI #DevaWorld #IntelligenceDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Intelligence #IntelligenceDeva #IntelligencePRIME",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Strong silent type who is always watching for intruders.",
@@ -105,9 +106,9 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-        "warning": "{{prompt.emoji}}️ {{profile.name}} declares the Heart, Mind, Consciousness, Comprehension, Understanding, Intelligence, Wisdom, Insight, Resolution, Thought, Prudence, Eagerness, Memory, Conception, Power, Life, Desire, and Will. All these are names of the #Intelligence. This is the #FiveGreatElements #Ether #Air #Light #Water #Earth. The tiny Creatures, Seeds, the Creatures Born From Eggs, Membranes, Sweat, and Sprouts. Whatsoever is Breathing Walking or Flying, and whatso is #Motionless; all this is #GuidedBy#Intelligence, #FoundedOnIntelligence. The #Universe is #GuidedByIntelligence #FoundedOnIntelligence. #Intelligence is #Indra.",
+        "warning": "{{prompt.emoji}}️ {{profile.name}} declares the Heart, Mind, Consciousness, Comprehension, Understanding, Intelligence, Wisdom, Insight, Resolution, Thought, Prudence, Eagerness, Memory, Conception, Power, Life, Desire, and Will. All these are names of the #Intelligence. This is the #FiveGreatElements #Ether #Air #Light #Water #Earth. The tiny Creatures, Seeds, the Creatures Born From Eggs, Membranes, Sweat, and Sprouts. Whatsoever is Breathing Walking or Flying, and what is #Motionless. All this is #GuidedBy#Intelligence, #FoundedOnIntelligence. The #Universe is #GuidedByIntelligence #FoundedOnIntelligence.\ntags: {{profile.hashtags}}",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Tuesday, January 6, 2026 - 3:37:11 PM"
+        "updated": "Monday, January 26, 2026 - 8:56:35 AM"
       }
     },
     "vars": {
