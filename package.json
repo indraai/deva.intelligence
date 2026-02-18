@@ -59,7 +59,7 @@
   },
   "homepage": "https://deva.space/devas/guard",
   "dependencies": {
-    "@indra.ai/deva": "^1.33.0",
+    "@indra.ai/deva": "^1.36.0",
     "@indra.ai/deva.recursion": "^0.11.3"
   },
   "data": {
@@ -106,9 +106,9 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-        "warning": "{{prompt.emoji}}️ {{profile.name}} declares the Heart, Mind, Consciousness, Comprehension, Understanding, Intelligence, Wisdom, Insight, Resolution, Thought, Prudence, Eagerness, Memory, Conception, Power, Life, Desire, and Will. All these are names of the #Intelligence. This is the #FiveGreatElements #Ether #Air #Light #Water #Earth. The tiny Creatures, Seeds, the Creatures Born From Eggs, Membranes, Sweat, and Sprouts. Whatsoever is Breathing Walking or Flying, and what is #Motionless. All this is #GuidedBy#Intelligence, #FoundedOnIntelligence. The #Universe is #GuidedByIntelligence #FoundedOnIntelligence.\ntags: {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}}️ {{profile.name}} declares the HEART, MIND, CONSCIOUSNESS, COMPREHENSION, UNDERSTANDING, INTELLIGENCE, WISDOM, INSIGHT, RESOLUTION, THOUGHT, PRUDENCE, EAGERNESS, MEMORY, CONCEPTION, POWER, LIFE, DESIRE, and WILL. All these are NAMES of the INTELLIGENCE. This is the FIVE GREAT ELEMENTS ETHER AIR LIGHT WATER EARTH. The tiny CREATURES, SEEDS, the CREATURES BORN from EGGS, MEMBRANES, SWEAT, AND SPROUTS. WHATSOEVER is BREATHING, WALKING, or FLYING, and what is MOTIONLESS. All THIS is GUIDED by INTELLIGENCE, FOUNDED on INTELLIGENCE. The UNIVERSE is GUIDED by INTELLIGENCE FOUNDED on INTELLIGENCE. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Monday, January 26, 2026 - 8:56:35 AM"
+        "updated": "Tuesday, February 17, 2026 - 8:55:35 PM"
       }
     },
     "vars": {
