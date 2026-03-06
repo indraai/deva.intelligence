@@ -8,6 +8,20 @@
 
 import Deva from '@indra.ai/deva';
 import recursion from '@indra.ai/deva.recursion';
+// import recursion from '/Users/quinnmichaels/Dev/deva.space/devas/deva.recursion/index.js';
+
+import algorithm from '@indra.ai/deva.algorithm';
+// import algorithm from '/Users/quinnmichaels/Dev/deva.space/devas/deva.algorithm/index.js';
+
+import automation from '@indra.ai/deva.automation';
+// import automation from '/Users/quinnmichaels/Dev/deva.space/devas/deva.automation/index.js';
+
+// import simulation from '@indra.ai/deva.simulation';
+import simulation from '/Users/quinnmichaels/Dev/deva.space/devas/deva.simulation/index.js';
+
+// algorithm,
+// automation,
+// simulation,
 // import physics from '/Users/quinnmichaels/Dev/deva.space/devas/deva.physics/index.js';
 // import psychology from '/Users/quinnmichaels/Dev/deva.space/devas/deva.psychology/index.js';
 // import philosophy from '/Users/quinnmichaels/Dev/deva.space/devas/deva.philosophy/index.js';
@@ -48,6 +62,9 @@ const IntelligenceDeva = new Deva({
   modules: {},
   devas: {
     recursion,
+    algorithm,
+    automation,
+    simulation,
     // physics,
     // psychology,
     // philosophy,
