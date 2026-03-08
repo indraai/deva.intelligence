@@ -33,7 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.recursion@latest @indra.ai/deva.algorithm@latest @indra.ai/deva.automation@latest --save",
+    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.recursion@latest @indra.ai/deva.algorithm@latest @indra.ai/deva.automation@latest  @indra.ai/deva.simulation@latest @indra.ai/deva.physics@latest @indra.ai/deva.psychology@latest @indra.ai/deva.philosophy@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -60,9 +60,13 @@
   "homepage": "https://deva.space/devas/guard",
   "dependencies": {
     "@indra.ai/deva": "^1.37.3",
-    "@indra.ai/deva.algorithm": "^0.8.0",
-    "@indra.ai/deva.automation": "^0.3.0",
-    "@indra.ai/deva.recursion": "^0.12.0"
+    "@indra.ai/deva.algorithm": "^0.9.3",
+    "@indra.ai/deva.automation": "^0.7.0",
+    "@indra.ai/deva.philosophy": "^0.8.0",
+    "@indra.ai/deva.physics": "^0.7.0",
+    "@indra.ai/deva.psychology": "^0.7.0",
+    "@indra.ai/deva.recursion": "^0.14.2",
+    "@indra.ai/deva.simulation": "^0.5.0"
   },
   "data": {
     "agent": {
@@ -92,7 +96,7 @@
         "subtitle": "Building Intelligence.",
         "describe": "Intelligence Deva is responsible for handling intelligence.",
         "tweet": "Intelligence Deva ensures systems are always intelligent.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #Intelligence #IntelligenceDeva #IntelligencePRIME",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Intelligence #IntelligenceDeva #IntelligencePRIME",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Strong silent type who is always watching for intruders.",
