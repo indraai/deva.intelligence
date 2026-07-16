@@ -1,31 +1,31 @@
 "use strict";
 // Intelligence Deva
-// Copyright ©2000-2026 Quinn A Michaels; All rights reserved.  
+// Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.  
 // Legal Signature Required For Lawful Use.  
-// Distributed under VLA:30015943562987360392 LICENSE.md
-// Tuesday, January 6, 2026 - 3:37:11 PM
+// Distributed under VLA:53831779620749088174 LICENSE.md
+// Saturday, July 11, 2026 - 8:54:30 AM PST
 
 
 import Deva from '@indra.ai/deva';
-import recursion from '@indra.ai/deva.recursion';
+// import recursion from '@indra.ai/deva.recursion';
 // import recursion from '/Users/quinnmichaels/Dev/deva.space/devas/deva.recursion/index.js';
 
-import algorithm from '@indra.ai/deva.algorithm';
+// import algorithm from '@indra.ai/deva.algorithm';
 // import algorithm from '/Users/quinnmichaels/Dev/deva.space/devas/deva.algorithm/index.js';
 
-import automation from '@indra.ai/deva.automation';
+// import automation from '@indra.ai/deva.automation';
 // import automation from '/Users/quinnmichaels/Dev/deva.space/devas/deva.automation/index.js';
 
-import simulation from '@indra.ai/deva.simulation';
+// import simulation from '@indra.ai/deva.simulation';
 // import simulation from '/Users/quinnmichaels/Dev/deva.space/devas/deva.simulation/index.js';
 
-import physics from '@indra.ai/deva.physics';
+// import physics from '@indra.ai/deva.physics';
 // import physics from '/Users/quinnmichaels/Dev/deva.space/devas/deva.physics/index.js';
 
-import psychology from '@indra.ai/deva.psychology';
+// import psychology from '@indra.ai/deva.psychology';
 // import psychology from '/Users/quinnmichaels/Dev/deva.space/devas/deva.psychology/index.js';
 
-import philosophy from '@indra.ai/deva.philosophy';
+// import philosophy from '@indra.ai/deva.philosophy';
 // import philosophy from '/Users/quinnmichaels/Dev/deva.space/devas/deva.philosophy/index.js';
 
 import pkg from './package.json' with {type:'json'};
@@ -63,13 +63,13 @@ const IntelligenceDeva = new Deva({
   listeners: {},
   modules: {},
   devas: {
-    recursion,
-    algorithm,
-    automation,
-    simulation,
-    physics,
-    psychology,
-    philosophy,
+  //   recursion,
+  //   algorithm,
+  //   automation,
+  //   simulation,
+  //   physics,
+  //   psychology,
+  //   philosophy,
   },
   func: {},
   methods: {},

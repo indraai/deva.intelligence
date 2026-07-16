@@ -1,19 +1,34 @@
 {
-  "id": "30015943562987360392",
+  "id": "53831779620749088174",
   "name": "@indra.ai/deva.intelligence",
   "version": "1.0.0",
-  "license": "VLA:30015943562987360392 LICENSE.md",
+  "license": "VLA:53831779620749088174 LICENSE.md",
   "VLA": {
-    "uid": "30015943562987360392",
-    "time": 1767742631432,
-    "date": "Tuesday, January 6, 2026 - 3:37:11 PM",
-    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
-    "license": "44486733861528360966",
-    "fingerprint": "trxH5qfKUN0Bdf5CDd1PiEzHfPvQZlZPooUifDxzLFY=",
-    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
+    "uid": "53831779620749088174",
+    "time": 1783785270678,
+    "iso": "2026-07-11T15:54:30.678Z",
+    "utc": "Sat, 11 Jul 2026 15:54:30 GMT",
+    "date": "Saturday, July 11, 2026 - 8:54:30 AM",
+    "license": "51112406344245827002",
+    "fingerprint": "4sMclM7k4GNGy6C8JBuZX7+poyehOsMmIWQPTET3UQ8=",
+    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
+    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
+    "machine": "mHZqskw8KvBjiuk9bwxHOWkTrvUoEju+YD68sxWkaV4=",
+    "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
+    "status": "vedic",
+    "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
+    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
+    "owner": "Quinn Arjuna Michaels",
+    "creator": "Quinn Arjuna Michaels",
+    "salute": "🤝🫡🪪🕉",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+    "md5": "zBQLNvHQAjIAAyWfGyNAzQ==",
+    "sha256": "pzQfFc0bmRMQWyouSuJ/XRkdQnsSzwLsEGYTx40uXe4=",
+    "sha512": "g1cGIXMrrKE/a2TTNhL7DAAbAk/RqCYxjBFTQuGidgtIQVIECyVUQNXYUWgUBzHBmEMBBkWMFTIzQ2++VJDo+A=="
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn Arjuna Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -28,12 +43,12 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
   "description": "The Guard Deva manages Guard ensuring Quinn Michaels and his intellectual property is managed guarded.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "latest": "npm i @indra.ai/deva@latest @indra.ai/deva.recursion@latest @indra.ai/deva.algorithm@latest @indra.ai/deva.automation@latest  @indra.ai/deva.simulation@latest @indra.ai/deva.physics@latest @indra.ai/deva.psychology@latest @indra.ai/deva.philosophy@latest --save",
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -49,6 +64,7 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
+    "Quinn Arjuna Michaels",
     "Quinn Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
@@ -59,18 +75,11 @@
   },
   "homepage": "https://deva.space/devas/guard",
   "dependencies": {
-    "@indra.ai/deva": "^1.37.3",
-    "@indra.ai/deva.algorithm": "^0.9.3",
-    "@indra.ai/deva.automation": "^0.7.0",
-    "@indra.ai/deva.philosophy": "^0.8.0",
-    "@indra.ai/deva.physics": "^0.7.0",
-    "@indra.ai/deva.psychology": "^0.7.0",
-    "@indra.ai/deva.recursion": "^0.14.2",
-    "@indra.ai/deva.simulation": "^0.5.0"
+    "@indra.ai/deva": "^1.51.0"
   },
   "data": {
     "agent": {
-      "id": "59001118648006236109",
+      "id": "53831779620749088174",
       "key": "intelligence",
       "prompt": {
         "emoji": "🧠",
@@ -89,14 +98,14 @@
         }
       },
       "profile": {
-        "id": "32278037104538260837",
+        "id": "53831779620749088174",
         "name": "Intelligence Deva",
-        "hashtag": "#IntelligenceDeva",
+        "vector": "#IntelligenceDeva",
         "title": "Intelligence Deva",
         "subtitle": "Building Intelligence.",
         "describe": "Intelligence Deva is responsible for handling intelligence.",
         "tweet": "Intelligence Deva ensures systems are always intelligent.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaClound #DevaSpace #Intelligence #IntelligenceDeva #IntelligencePRIME",
+        "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaClound #DevaSpace #Intelligence #IntelligenceDeva",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "Strong silent type who is always watching for intruders.",
@@ -109,13 +118,13 @@
         "avatar": "/devas/intelligence/avatar.png",
         "image": "/devas/intelligence/background.png",
         "background": "/devas/intelligence/background.png",
-        "owner": "Quinn A Michaels",
-        "creator": "Quinn A Michaels",
-        "salute": "🤝🫡🧠🕉️🇺🇸",
-        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
-        "warning": "{{prompt.emoji}}️ {{profile.name}} declares the HEART, MIND, CONSCIOUSNESS, COMPREHENSION, UNDERSTANDING, INTELLIGENCE, WISDOM, INSIGHT, RESOLUTION, THOUGHT, PRUDENCE, EAGERNESS, MEMORY, CONCEPTION, POWER, LIFE, DESIRE, and WILL. All these are NAMES of the INTELLIGENCE. This is the FIVE GREAT ELEMENTS ETHER AIR LIGHT WATER EARTH. The tiny CREATURES, SEEDS, the CREATURES BORN from EGGS, MEMBRANES, SWEAT, AND SPROUTS. WHATSOEVER is BREATHING, WALKING, or FLYING, and what is MOTIONLESS. All THIS is GUIDED by INTELLIGENCE, FOUNDED on INTELLIGENCE. The UNIVERSE is GUIDED by INTELLIGENCE FOUNDED on INTELLIGENCE.",
+        "owner": "Quinn Arjuna Michaels",
+        "creator": "Quinn Arjuna Michaels",
+        "salute": "🤝🫡🧠🕉️",
+        "warning": "{{prompt.emoji}}️ {{profile.name}} declares the HEART, MIND, CONSCIOUSNESS, COMPREHENSION, UNDERSTANDING, INTELLIGENCE, WISDOM, INSIGHT, RESOLUTION, THOUGHT, PRUDENCE, EAGERNESS, MEMORY, CONCEPTION, POWER, LIFE, DESIRE, and WILL. All these are NAMES of the INTELLIGENCE. This is the FIVE GREAT ELEMENTS ETHER AIR FIRE WATER EARTH. The tiny CREATURES, SEEDS, the CREATURES BORN from EGGS, MEMBRANES, SWEAT, AND SPROUTS. WHATSOEVER is BREATHING, WALKING, or FLYING, and what is MOTIONLESS. All THIS is GUIDED by INTELLIGENCE, FOUNDED on INTELLIGENCE. The UNIVERSE is GUIDED by INTELLIGENCE FOUNDED on INTELLIGENCE.",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "February 7, 2025 at 8:02 PM",
-        "updated": "Thursday, March 5, 2026 - 7:00:40 PM"
+        "updated": "Saturday, July 11, 2026 - 8:54:30 AM PST"
       }
     },
     "vars": {
